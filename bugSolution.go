@@ -1,0 +1,1 @@
+func myFunc(a []int) { if a == nil { return } for i := range a { fmt.Println(a[i]) } }
